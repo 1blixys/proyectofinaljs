@@ -1,0 +1,124 @@
+[
+    {
+        "id": "trago-01",
+        "titulo": "Trago 01",
+        "imagen": "./img/tragos/01.jpg",
+        "categoria": {
+            "nombre": "Tragos",
+            "id":"tragos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "trago-02",
+        "titulo": "Trago 02",
+        "imagen": "./img/tragos/02.jpg",
+        "categoria": {
+            "nombre": "Tragos",
+            "id":"tragos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "trago-03",
+        "titulo": "Trago 03",
+        "imagen": "./img/tragos/03.jpg",
+        "categoria": {
+            "nombre": "Tragos",
+            "id":"tragos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "trago-04",
+        "titulo": "Trago 04",
+        "imagen": "./img/tragos/04.jpg",
+        "categoria": {
+            "nombre": "Tragos",
+            "id":"tragos"
+        },
+        "precio": 1000
+    },
+    
+    {
+        "id": "vino-01",
+        "titulo": "Vino 01",
+        "imagen": "./img/vinos/01.jpg",
+        "categoria": {
+            "nombre": "Vinos",
+            "id":"vinos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "vino-02",
+        "titulo": "Vino 02",
+        "imagen": "./img/vinos/02.jpg",
+        "categoria": {
+            "nombre": "Vinos",
+            "id":"vinos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "vino-03",
+        "titulo": "Vino 03",
+        "imagen": "./img/vinos/03.jpg",
+        "categoria": {
+            "nombre": "Vinos",
+            "id":"vinos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "vino-04",
+        "titulo": "Vino 04",
+        "imagen": "./img/vinos/04.jpg",
+        "categoria": {
+            "nombre": "Vinos",
+            "id":"vinos"
+        },
+        "precio": 1000
+    },
+    
+    {
+        "id": "bebida-01",
+        "titulo": "bebida 02",
+        "imagen": "./img/bebidas/01.jpg",
+        "categoria": {
+            "nombre": "Bebidas",
+            "id":"bebidas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "bebida-02",
+        "titulo": "bebida 02",
+        "imagen": "./img/bebidas/02.jpg",
+        "categoria": {
+            "nombre": "Bebidas",
+            "id":"bebidas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "bebida-03",
+        "titulo": "bebida 03",
+        "imagen": "./img/bebidas/03.jpg",
+        "categoria": {
+            "nombre": "Bebidas",
+            "id":"bebidas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "bebida-04",
+        "titulo": "bebida 04",
+        "imagen": "./img/bebidas/04.jpg",
+        "categoria": {
+            "nombre": "Bebidas",
+            "id":"bebidas"
+        },
+        "precio": 1000
+    }
+]
